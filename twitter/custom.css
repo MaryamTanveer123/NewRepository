@@ -1,0 +1,67 @@
+section{
+    display: flex;
+   }
+#section-aside {
+    width: 20%;
+    margin: 2em 0em 0em 7em;
+   }
+   #section-aside ul{
+    list-style:none;
+   }
+   #section-aside li{
+    padding-top:0.5em;
+   }
+   #section-aside ul li a{
+    text-decoration: none;
+    color: rgb(0, 39, 94);
+    font: bold 14px arial;
+    padding-left: 0.8em;
+   }
+   #section-aside ul li a:hover{
+    background-color: rgb(181, 215, 255);
+    color: rgb(38, 139, 255);
+    padding: 0.1em 5.5em 0.1em 1em;
+   }
+   #profile {
+    margin-top: 2em;
+    font-family: Arial;
+    color: rgb(35, 77, 127);
+   }
+   .para {
+    display: flex;
+    margin-top: 1em;
+    color: rgb(35, 77, 127);
+   }
+   #profile p {
+    margin-top: 0.2em;
+    font-family: Arial;
+    padding-left: 0.8em;
+   }
+   .nav-link{
+    color: purple;
+   }
+.section{
+    display: flex;
+}  
+
+fieldset {
+    margin: auto;
+    border: 1px solid black;
+    background-color: #d6d4e0;
+    width: 30%;
+   }
+   label {
+    display: block;
+   }
+   .divforform {
+    padding: 0.5em;
+   }
+   button {
+    background-color: purple;
+    color: white;
+    padding: 1em;
+    width: 10vw;
+   }
+   .wset{
+    width: 25vw;
+   }
